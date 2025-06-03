@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 , I'm a passionate penetration tester and vulnerability researcher specializing in web application security, network exploitation, and bug bounty hunting.
 
-<!--
-**TheH07/TheH07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I actively discover and report security vulnerabilities to help improve the safety of online platforms.  
+💻 I work with tools like Burp Suite, Nmap, Metasploit, SQLmap, and develop custom scripts in Python to automate security testing.
 
-Here are some ideas to get you started:
+🌍 I’ve contributed to securing platforms by responsibly disclosing bugs through public and private programs on platforms like HackerOne, Bugcrowd, and Open Bug Bounty.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 On this GitHub, you'll find:
+- Tools I’ve created or modified for ethical hacking
+- Proof-of-concept scripts
+
+
+🧠 Always learning. Always hacking. Always ethical.
+
+📫 Let's connect: [hhalbess@gmail.com]
